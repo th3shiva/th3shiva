@@ -23,7 +23,7 @@ Hello! I'm **Shiva**, a passionate **Full-Stack Developer**, **Mobile App Develo
 
 - **Email**: [th3.shiva@protonmail.com](mailto:th3.shiva@protonmail.com)
 - **YouTube Channel**: [SyncElevate Tech](https://www.youtube.com/@syncelevateTech)
-- **Telegram**: [@ShivaTechConnect](https://t.me/ShivaTechConnect)
+- **Telegram**: [@Sandeep](https://t.me/th3_shiva)
 
 ---
 
