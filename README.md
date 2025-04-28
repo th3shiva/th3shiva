@@ -28,9 +28,13 @@ I’m always **experimenting** with new tools and love solving **CTF challenges*
 
 ---
 
-## 📈 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=th3shiva&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+## 👀 Profile Views:
+![Profile views](https://hits.seeyourstuff.com/pixel?uid=th3shiva)
+
+---
+
+Let’s build something amazing together! 🌟
 ---
 
 Let’s build something amazing together! 🌟
