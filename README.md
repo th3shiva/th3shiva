@@ -1,40 +1,34 @@
-# Hey there, I'm Shiva 👋✨
+# 👋 Welcome to My GitHub Profile!
 
-Welcome to my **GitHub** profile! 🚀  
-I’m a **Full-Stack Developer** with a love for **React**, **Node.js**, and diving deep into **Cybersecurity**. Passionate about building innovative solutions and always eager to learn more!
+Hello! I'm **Shiva**, a passionate **Full-Stack Developer**, **Mobile App Developer**, and **Cybersecurity Enthusiast**. I specialize in **React**, **React Native**, **Node.js**, and cybersecurity solutions. I am always up for a challenge, whether it's building scalable web applications, developing cross-platform mobile apps, or securing complex systems.
+
+🚀 **What I Do**:
+
+- 🌐 **Full-Stack Web Development**: Crafting scalable backend APIs and dynamic frontend UIs.
+- 📱 **Mobile App Development**: Building cross-platform mobile apps with React Native.
+- 🛠️ **DevOps**: Managing CI/CD pipelines, Docker, and Kubernetes for efficient deployments.
+- 🔐 **Cybersecurity**: Conducting penetration testing and securing systems with ethical hacking.
+
+💡 **Technologies I Work With**:
+
+- **Frontend**: React, React Native, HTML5, CSS3, JavaScript, TypeScript
+- **Backend**: Node.js, Express.js, RESTful APIs, GraphQL
+- **Mobile**: React Native, Expo
+- **DevOps**: Docker, Kubernetes, CI/CD pipelines, AWS, Azure
+- **Cybersecurity**: Ethical Hacking, Network Security, Penetration Testing
 
 ---
 
-> "The best way to predict the future is to invent it." – **Alan Kay**  
+### 📞 **Let’s Connect!**
 
----
-
-## 🔧 Tech I Use:
-- **Frontend**: React, React Native
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Cybersecurity**: Ethical Hacking, Web Security
-
----
-
-## 📫 Let's Connect:
 - **Email**: [th3.shiva@protonmail.com](mailto:th3.shiva@protonmail.com)
-- **YouTube**: [SyncElevateTech](https://www.youtube.com/@syncelevateTech)
+- **YouTube Channel**: [SyncElevate Tech](https://www.youtube.com/@syncelevateTech)
+- **Telegram**: [@ShivaTechConnect](https://t.me/ShivaTechConnect)
 
 ---
 
-## ⚡ Fun Fact:
-I’m always **experimenting** with new tools and love solving **CTF challenges**! 😄
+⚡ **I’m open to collaborating on open-source projects, full-stack development, mobile apps, and cybersecurity solutions. Let’s build something amazing together!**
+
+### "In tech, we don't just solve problems, we create solutions that transform the world." 💡
 
 ---
-
-
-## 👀 Profile Views:
-![Profile views](https://hits.seeyourstuff.com/pixel?uid=th3shiva)
-
----
-
-Let’s build something amazing together! 🌟
----
-
-Let’s build something amazing together! 🌟
